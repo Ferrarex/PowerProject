@@ -20,8 +20,8 @@
 <p><b>Powered by PowerGuido™</b></p>
 
 <details>
-  <summary>Click to reveal spoiler image</summary>
+  <summary><h1>Como encontro um Poweriano?</h1></summary>
 
-  ![Spoiler Image]([https://link-to-your-image.com](https://i.pinimg.com/736x/22/c0/62/22c06246554c13e5b93be77a5b5ca0cf.jpg))
+  ![]([https://link-to-your-image.com](https://i.pinimg.com/736x/22/c0/62/22c06246554c13e5b93be77a5b5ca0cf.jpg))
 
 </details>
