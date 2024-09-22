@@ -13,4 +13,5 @@
 <h1>Não funciona por wifi cabeado em alguns computadores!</h1>
 <h3>O problema está sendo resolvido, caso o PC suporte wireless, apenas desconecte o cabo.</h3>
 <br><br>
+<hr>
 <p><b>Powered by PowerGuido™</b></p>
