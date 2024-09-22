@@ -16,8 +16,18 @@
 <h1>Não funciona por wifi cabeado em alguns computadores!</h1>
 <h3>O problema está sendo resolvido, caso o PC suporte wireless, apenas desconecte o cabo.</h3>
 <br><br>
-<h1>Não consigo colocar o arquivo na minha unidade, pois ela apaga .EXEs e .BATs</h1>
-<h3>O arquivo também pode ser usado como .CMD ou .JAR, basta mudar a extensão.</h3>
+<h1>Não consigo colocar o arquivo na minha unidade, pois ela apaga .exe e .bat</h1>
+<h3>O arquivo também pode ser usado como .cmd ou .jar, basta mudar a extensão.
+<details>
+  <summary>Como usar com extensão .jar?</summary>
+  <p>Coloque o arquivo em uma pasta, após isso, crie um arquivo .cmd</p>
+  <p>Dentro do .cmd coloque: "java -jar DiscordArmazenamento.jar"</p>
+  <p>Abra o .cmd</p>
+
+</details>
+</h3>
+
+
 <hr>
 <p><b>Powered by PowerGuido™</b></p>
 
