@@ -16,6 +16,8 @@
 <h1>Não funciona por wifi cabeado em alguns computadores!</h1>
 <h3>O problema está sendo resolvido, caso o PC suporte wireless, apenas desconecte o cabo.</h3>
 <br><br>
+<h1>Não consigo colocar o arquivo na minha unidade, pois ela apaga .EXEs e .BATs</h1>
+<h3>O arquivo também pode ser usado como .CMD ou .JAR, basta mudar a extensão.</h3>
 <hr>
 <p><b>Powered by PowerGuido™</b></p>
 
