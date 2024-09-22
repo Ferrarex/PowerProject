@@ -20,9 +20,10 @@
 <h3>O arquivo também pode ser usado como .cmd ou .jar, basta mudar a extensão.
 <details>
   <summary>Como usar com extensão .jar?</summary>
-  <p>Coloque o arquivo em uma pasta, após isso, crie um arquivo .cmd</p>
-  <p>Dentro do .cmd coloque: "java -jar DiscordArmazenamento.jar"</p>
-  <p>Abra o .cmd</p>
+  <br>
+  <p style="margin-left: 40px;">Coloque o arquivo em uma pasta, após isso, crie um arquivo .cmd</p>
+  <p style="margin-left: 40px;">Dentro do .cmd coloque: "java -jar DiscordArmazenamento.jar"</p>
+  <p style="margin-left: 40px;">Abra o .cmd</p>
 
 </details>
 </h3>
