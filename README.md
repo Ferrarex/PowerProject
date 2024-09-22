@@ -22,6 +22,6 @@
 <details>
   <summary><h1>Como encontro um Poweriano?</h1></summary>
 
-  ![](https://imgb.ifunny.co/images/9d9400a4d64d08b901d2698d6d2e55425d885cac0c13cd461aa67112de108563_1.jpg)
+  ![](https://i.pinimg.com/736x/22/c0/62/22c06246554c13e5b93be77a5b5ca0cf.jpg)
 
 </details>
