@@ -22,6 +22,6 @@
 <details>
   <summary><h1>Como encontro um Poweriano?</h1></summary>
 
-  ![](https://www.guiaviagensbrasil.com/imagens/Imagem%20do%20mar%20calma%20e%20belo%20da%20Praia%20da%20Engenhoca-Itacar%C3%A9-Bahia-BA.jpg)
+  ![](https://imgb.ifunny.co/images/9d9400a4d64d08b901d2698d6d2e55425d885cac0c13cd461aa67112de108563_1.jpg)
 
 </details>
