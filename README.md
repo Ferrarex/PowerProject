@@ -25,10 +25,11 @@
 <details>
   <summary>Como usar com extensão .jar?</summary>
   <br>
-  <p>Coloque o arquivo em uma pasta, após isso, crie um arquivo .cmd</p>
-  <p>Dentro do .cmd coloque: "java -jar DiscordArmazenamento.jar"</p>
-  <p>Abra o .cmd</p>
-
+  <div style='background-color:#121212; color:white;'>
+      <p>Coloque o arquivo em uma pasta, após isso, crie um arquivo .cmd</p>
+    <p>Dentro do .cmd coloque: "java -jar DiscordArmazenamento.jar"</p>
+    <p>Abra o .cmd</p>
+  </div>
 </details>
 </h3>
 
