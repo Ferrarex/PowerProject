@@ -28,7 +28,12 @@
 <br>
 
 <h1>Funciona só no IF ou em casa também?</h1>
-<h3>O aplicativo pode ser usado em qualquer computador com Java (mínimo 11).</h3>
+<h3>O aplicativo pode ser usado em qualquer computador com Java (mínimo 11).
+<details>
+  <summary>Como instalo o java?</summary>
+  <br>
+    <a href="https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe">https://download.oracle.com/java/21/latest/jdk-21_windows-x64_bin.exe</a>
+</details></h3>
 
 <br>
 
