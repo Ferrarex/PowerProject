@@ -1,5 +1,5 @@
-<h1>DOWNLOAD: (WINDOWS) <a href="https://github.com/Ferrarex/PowerProject/releases/download/Aplicativo/DiscordArmazenamento.exe">github.com/Ferrarex/PowerProject/releases/download/Aplicativo/DiscordArmazenamento.exe</a></h1>
-
+<h1>DOWNLOAD (WINDOWS): <a href="https://github.com/Ferrarex/PowerProject/releases/download/Aplicativo/DiscordArmazenamento.exe">github.com/Ferrarex/PowerProject/releases/download/Aplicativo/DiscordArmazenamento.exe</a></h1>
+<h1>DOWNLOAD (WINDOWS Standalone): <a href="https://github.com/Ferrarex/PowerProject/releases/download/Aplicativo/DiscordArmazenamento.Standalone.zip">https://github.com/Ferrarex/PowerProject/releases/download/Aplicativo/DiscordArmazenamento.Standalone.zip</a></h1>
 <br>
 
 <h1>Fácil utilização</h1>
