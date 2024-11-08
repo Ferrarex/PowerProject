@@ -1,10 +1,19 @@
 body {
+    margin: 0; /* Remove default margin */
+    height: 100%; /* Ensure the body takes the full height of the viewport */
+    background-image: url('../images/bg.png'); /* Path to your image */
+    background-size: cover; /* Scales the image to cover the entire viewport */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-attachment: fixed; /* Keeps the background fixed during scroll */
+
     font-family: Arial, sans-serif;
-    background-color: #121212;
+    background-color: #141427;
     color: #fff;
     margin: 0;
     padding: 0;
 }
+
 
 h1, h2 {
     text-align: center;
@@ -20,7 +29,7 @@ h3 {
 }
 
 div.box {
-    background-color: rgb(51, 51, 51);
+    background-color: rgb(64, 64, 91);
     border-radius: 10px;
     width: 800px;
     margin-left: 50%;
@@ -83,7 +92,7 @@ main {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rgb(51, 51, 51);
+    background-color: rgb(64, 64, 91);
     padding: 10px 20px;
     margin-bottom: 20px;
 }
@@ -98,16 +107,15 @@ main {
 }
 
 .nav-links a {
-    color: white;
     text-decoration: none;
+}
+
+.nav-links a p {
+    color: white;
     font-size: 18px;
     transition: .25s;
 }
 
-.nav-links a:hover {
+.nav-links a p:hover {
     color: #8FABFE;
-}
-
-gray {
-    color: rgba(51,51,51,.5);
 }
