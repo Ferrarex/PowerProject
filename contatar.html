@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PowerGuido™</title>
+    <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+    <div id="navbar-container"></div>
+    <script src="js/main.js"></script>
+
+    <a
+        href="mailto:matheusjoseferrari07@gmail.com?subject=Discord Armazenamento&body=Venho reportar que o seguinte jogo / app está com erro: %0AO programa me disse isso no final da instalação: %0ANotas adicionais:" target="_blank">
+        <p class="inst"><img src="images/erro.png" class="inline-image"><span class="inline-text">Relatar um Erro</span>
+        </p>
+    </a>
+    <a href="mailto:matheusjoseferrari07@gmail.com?subject=Discord Armazenamento&body=Venho solicitar o jogo / app:" target="_blank">
+        <p class="inst"><img src="images/solicitar.png" class="inline-image"><span class="inline-text">Fazer uma
+                Solicitação</span>
+        </p>
+    </a>
+    <a href="mailto:matheusjoseferrari07@gmail.com?subject=Discord Armazenamento"target="_blank">
+        <p class="inst"><img src="images/comentario.png" class="inline-image"><span class="inline-text">Enviar um
+                Comentário</span>
+        </p>
+    </a>
+    <a id="discord">
+        <p class="inst"><img src="images/copiar.png" class="inline-image"><span class="inline-text">Copiar contato no
+                Discord</span>
+        </p>
+    </a>
+    <a href="https://discord.gg/bnDzpKqMrG" target="_blank">
+        <p class="inst"><img src="images/discord.png" class="inline-image"><span class="inline-text">Entrar no servidor
+                de Armazenamento</span>
+        </p>
+    </a>
+
+    <script>
+        document.getElementById("discord").addEventListener("click", function () {
+            navigator.clipboard.writeText("ferrarex");
+            alert("Usuário do Discord copiado");
+        });
+    </script>
+</body>
+
+</html>
