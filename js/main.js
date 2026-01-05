@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const logo = document.createElement('div');
     const logoLink = document.createElement('a');
     logoLink.href = 'index.html';
-    logoLink.innerHTML = '<p><img src="images/logo-mini.png" class="logo inline-image"><span class="inline-text">Discord Armazenamento</span></p>';
+    logoLink.innerHTML = '<p><img src="images/logo.png" class="logo inline-image"><span class="inline-text">Discord Armazenamento</span></p>';
     logo.classList.add('nav-links');
     
     const navLinks = document.createElement('ul');
@@ -37,3 +37,4 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
   
+
